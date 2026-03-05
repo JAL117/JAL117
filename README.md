@@ -110,29 +110,13 @@ const jose = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&ring_color=2980b9&icon_color=2980b9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=default&hide_border=true&count_private=true&ring_color=2980b9&icon_color=2980b9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JAL117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JAL117&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAL117&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAL117&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JAL117&theme=tokyonight&hide_border=true&background=0d1117&ring=2980b9&fire=e74c3c&currStreakLabel=2980b9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JAL117&theme=default&hide_border=true&ring=2980b9&fire=e74c3c&currStreakLabel=2980b9" />
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=JAL117&theme=tokyonight&hide_border=true" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAL117&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2980b9&line=2980b9&point=e74c3c&area=true&area_color=2980b9" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=JAL117&theme=tokyonight&hide_border=true" width="700" />
 
 <br/><br/>
 
