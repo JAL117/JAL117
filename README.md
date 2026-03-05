@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=JAL117&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descSize=16&descColor=8B949E&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=JAL117&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI-First%20Builder&descSize=16&descColor=8B949E&descAlignY=55"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 **`JOSÉ ALBERTO MORALES SOLÓRZANO`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%97%86+Building+systems+that+solve+real+problems;%E2%97%86+Next.js+%C2%B7+React+%C2%B7+AI+%C2%B7+PostgreSQL;%E2%97%86+From+Chiapas%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD+to+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&lines=%E2%97%86+AI-first+development+with+Claude+%2B+Cursor+%2B+Vercel;%E2%97%86+Next.js+%C2%B7+Supabase+%C2%B7+Claude+Code+%C2%B7+LLMs;%E2%97%86+From+Chiapas%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD+to+the+world)](https://git.io/typing-svg)
 
 <br>
 
@@ -38,17 +38,18 @@ const JAL117 = {
     location:   "Chiapas, México",
     degree:     "B.S. Software Engineering — UPChiapas (2022–2025)",
 
-    building:   "AI-powered systems with real social impact",
+    building:   "AI-augmented systems with real social impact",
 
     stack: {
-        frontend:  ["React", "Next.js", "Tailwind CSS", "Flutter"],
-        backend:   ["Node.js", "PostgreSQL", "REST APIs", "GraphQL"],
-        ai:        ["Google Gemini", "NLP", "LLM Integration"],
-        cloud:     ["Vercel", "AWS", "Neon Serverless"],
-        practices: ["TDD", "Scrum", "CI/CD", "Code Review"],
+        frontend:  ["React", "Next.js 15", "Tailwind CSS", "Flutter"],
+        backend:   ["Node.js", "Supabase", "PostgreSQL", "REST APIs", "GraphQL"],
+        ai:        ["Claude Code", "Vercel AI SDK", "Gemini", "NLP", "LLM Integration"],
+        cloud:     ["Vercel", "AWS", "Supabase", "Neon Serverless"],
+        devTools:  ["Claude Code", "Cursor", "v0", "Git"],
+        practices: ["AI-assisted development", "TDD", "Scrum", "CI/CD"],
     },
 
-    funFact: "I built a WhatsApp bot that helps people escape debt",
+    funFact: "I ship 10x faster with Claude Code as my pair programmer",
 };
 ```
 
@@ -58,9 +59,9 @@ const JAL117 = {
 
 <div align="center">
 
-> *I believe technology should serve everyone — that's why I build tools*
-> *that solve real problems for real people, from AI-powered financial*
-> *advisors to predictive quality models for local farmers.*
+> *I believe technology should serve everyone. I leverage AI tools like Claude Code*
+> *and the Claude API to build faster and smarter — from AI-powered financial*
+> *advisors to predictive models for local farmers.*
 
 </div>
 
@@ -108,6 +109,7 @@ const JAL117 = {
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)&nbsp;
@@ -116,16 +118,83 @@ const JAL117 = {
 </details>
 
 <details open>
+<summary><b>AI & LLMs</b></summary>
+<br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=fff)&nbsp;
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=fff)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff)&nbsp;
+![v0](https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=fff)&nbsp;
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=fff)
+
+</details>
+
+<details open>
 <summary><b>Cloud & DevOps</b></summary>
 <br>
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=fff)
 
 </details>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ AI WORKFLOW ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%"/>
+
+<br>
+
+## `{ ai_workflow }`
+
+<br>
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```text
+  My AI-First Development Stack
+  ─────────────────────────────────────────────────────
+
+  Claude Code      →  Pair programming, refactoring,
+                       code review, debugging, CLI agent
+
+  Vercel AI SDK    →  AI Gateway for LLM integration in
+                       production apps, model routing, streaming
+
+  Cursor           →  AI-assisted editing, inline completions,
+                       codebase-aware suggestions
+
+  v0.dev           →  Rapid UI prototyping, component generation,
+                       design-to-code workflows
+
+  Vercel           →  Deployment, edge functions, analytics,
+                       Next.js-first infrastructure
+
+  Supabase         →  Auth, realtime DB, edge functions,
+                       PostgreSQL + vector embeddings
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *I use Claude Code as my daily driver for development — from planning*
+> *features with agent teams to shipping production code with AI-assisted*
+> *TDD, code review, and automated refactoring.*
 
 </div>
 
@@ -324,7 +393,7 @@ Built a digital menu + order system for Ardon Carnes & Grill (React + Bootstrap 
 
 <br>
 
-> *"Building software that solves real problems with measurable social impact."*
+> *"Building AI-augmented software that solves real problems — faster, smarter, with impact."*
 
 <br>
 
