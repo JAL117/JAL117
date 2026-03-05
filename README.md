@@ -89,9 +89,9 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2980b9&icon_color=2980b9&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=JAL117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=JAL117&theme=tokyonight&hide_border=true&background=00000000&ring=2980b9&fire=e74c3c&currStreakLabel=2980b9" height="165" />
+<img src="https://streak-stats.demolab.com/?user=JAL117&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
