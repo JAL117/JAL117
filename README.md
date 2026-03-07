@@ -125,7 +125,7 @@ const JAL117 = {
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=fff)&nbsp;
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff)&nbsp;
 ![v0](https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=fff)&nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=fff)
+
 
 </details>
 
@@ -172,9 +172,6 @@ const JAL117 = {
 
   Vercel AI SDK    →  AI Gateway for LLM integration in
                        production apps, model routing, streaming
-
-  Cursor           →  AI-assisted editing, inline completions,
-                       codebase-aware suggestions
 
   v0.dev           →  Rapid UI prototyping, component generation,
                        design-to-code workflows
